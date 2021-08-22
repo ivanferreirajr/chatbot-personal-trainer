@@ -1,8 +1,8 @@
 {
-  "name": "chatbot-fit",
+  "name": "personal-trainer-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ivanferreirajr/chatbot-fit.git",
+  "repository": "https://github.com/ivanferreirajr/chatbot-personal-trainer.git",
   "author": "ivanferreirajr <ivan.junior@dcomp.ufs.br>",
   "license": "MIT",
   "scripts": {
